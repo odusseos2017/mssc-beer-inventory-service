@@ -1,0 +1,15 @@
+# Created at 2022-02-15T01:13:01.989
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2022-02-15T01:13:01.989
+WARNING: Illegal reflective access by org.codehaus.groovy.reflection.CachedClass (file:/home/philippe/.m2/repository/org/codehaus/groovy/groovy/2.5.11/groovy-2.5.11.jar) to method java.lang.reflect.AnnotatedElement.lambda$getDeclaredAnnotationsByType$0(java.lang.annotation.Annotation,java.lang.annotation.Annotation)
+
+# Created at 2022-02-15T01:13:01.989
+WARNING: Please consider reporting this to the maintainers of org.codehaus.groovy.reflection.CachedClass
+
+# Created at 2022-02-15T01:13:01.990
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2022-02-15T01:13:01.990
+WARNING: All illegal access operations will be denied in a future release
+

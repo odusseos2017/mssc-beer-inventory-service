@@ -1,0 +1,15 @@
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/services/NewInventoryListener.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/BeerInventoryDto.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/repositories/BeerInventoryRepository.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/config/JmsConfig.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/events/BeerDto.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/controllers/BeerInventoryController.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/BeerOrderDto.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/events/BeerEvent.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/events/NewInventoryEvent.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/brewery/model/BeerOrderLineDto.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BaseEntity.java
+/home/philippe/git/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapper.java
